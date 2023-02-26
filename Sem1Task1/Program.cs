@@ -16,12 +16,12 @@ string? numLine2 = Console.ReadLine();
 
 //Сравниваем равны ли они 0
 
-if(numLine1 != null && numLine2 != null);
+if (numLine1 != null && numLine2 != null) ;
 {
     //Переволим в инт
     int num1 = int.Parse(numLine1);
     int num2 = int.Parse(numLine2);
-    if (num2*num2 == num1)
+    if (num2 * num2 == num1)
 
     //Вывдоим все значения
     {
